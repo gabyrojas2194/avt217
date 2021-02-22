@@ -1,12 +1,12 @@
 body {
-  background-color: #BBECF9;
-  color: #f9bbcd
+  background-color: #f9bbcd;
+  color: #BBECF9
   margin-top: 300px;
   margin-bottom: 300px;
   margin-right: 450px;
   margin-left: 350px;
 
-  font-family: 본명조, heavy;
+  font-family: 본고딕 KR, heavy;
   font-weight: 900;
   font-style: normal;
 }
