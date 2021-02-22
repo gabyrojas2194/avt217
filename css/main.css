@@ -6,6 +6,9 @@ body {
   font-weight: 900;
   font-style: normal;
 }
+h3{
+  text-align: center;
+}
 a {
   color: white;
   text-align: center;
