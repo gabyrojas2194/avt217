@@ -10,3 +10,10 @@ body {
   font-weight: 900;
   font-style: normal;
 }
+a {
+  color: white;
+  text-align: center;
+}
+a:hover {
+  color: #F7BFF7;
+}
