@@ -5,14 +5,17 @@ body {
 h1 {
   color: #ffd0ec;
   text-align: center;
+  margin-top: 100px;
 }
 h2 {
-  color: #ffd0ec
+  color: #ffd0ec;
   text-align: center;
+  margin-top: 100px;
 }
 p {
-  color: #ffd0ec
+  color: #ffd0ec;
   text-align: center;
+  margin-top: 100px;
 }
 a {
   color: purple;
