@@ -1,2 +1,11 @@
 body {
   background-color: #ADD8E6;
+  margin-top: 300px;
+  margin-bottom: 300px;
+  margin-right: 450px;
+  margin-left: 350px;
+
+  font-family: Bodoni MT, regular;
+  font-weight: 900;
+  font-style: normal;
+}
