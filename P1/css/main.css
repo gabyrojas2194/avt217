@@ -1,48 +1,38 @@
 body {
   background-color: #f9bbcd;
+  color: #BBECF9
   margin-top: 300px;
   margin-bottom: 300px;
   margin-right: 450px;
   margin-left: 350px;
 
-  font-family: IvyMode, regular;
+  font-family: 본고딕 KR, heavy;
   font-weight: 900;
   font-style: normal;
 }
 
 a:link {
-  color: #E3EDF5;
+  color: #f9e7bb;
 }
 
 a:visited {
-  color: #E3EDF5;
+  color: #f9e7bb;
 }
-h4 {
-  color: white
-  font-family: IvyMode, SemiBold Italic;
-  font-weight: 900;
-  font-style: normal;
-}
+
 h1 {
-  color: #ACC4D6;
+  color: #ffd0ec;
   text-align: center;
   margin-top: 100px;
 }
 h2 {
-  color: #ACC4D6;
+  color: #ffd0ec;
   text-align: center;
   margin-top: 100px;
 }
 p {
-  color: #03AB99;
+  color: #ffd0ec;
   text-align: center;
   margin-top: 100px;
-}
-li {
-  color: white
-  font-family: IvyMode, Light Italic;
-  font-weight: 900;
-  font-style: normal;
 }
 a {
   color: purple;
