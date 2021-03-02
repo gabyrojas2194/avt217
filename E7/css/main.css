@@ -5,14 +5,14 @@ body {
   margin-right: 450px;
   margin-left: 350px;
 
-  font-family: IvyMode, regular;
+  font-family: Quicksand, regular;
   font-weight: 900;
   font-style: normal;
 }
 
 h4 {
   color: white
-  font-family: IvyMode, SemiBold Italic;
+  font-family: Capucine Basic, light;
   font-weight: 900;
   font-style: normal;
 }
@@ -31,7 +31,7 @@ p {
 }
 li {
   color: white
-  font-family: IvyMode, Light Italic;
+  font-family: Capucine Basic, light;
   font-weight: 900;
   font-style: normal;
 }
