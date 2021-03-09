@@ -1,0 +1,8 @@
+body {
+  background-color: #000000;
+}
+
+@media screen and (max width 1368px)
+body {
+  background-color: #707070;
+}
