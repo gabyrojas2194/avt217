@@ -23,7 +23,7 @@
   opacity: .7;
   transform: rotateX(60);
 }
-.circle{
+.shape2_1{
   width: 50px;
   height: 155px;
   background-color: red;
@@ -32,7 +32,7 @@
   opacity: .7;
   border: 5px solid black
 }
-.square{
+.shape2_2{
   width: 150px;
   height: 155px;
   background-color: #707053;
@@ -41,7 +41,7 @@
   opacity: .10;
   border: 2px solid black
 }
-.triangle{
+.shape2_3{
   width: 150px;
   height: 200px;
   background-color: pink;
