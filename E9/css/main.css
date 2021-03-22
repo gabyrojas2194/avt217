@@ -29,5 +29,6 @@ div{
   height: 155px;
   background-color: black;
   float: left;
-  margin: 7px;
+  margin: -7px;
+  opacity: .7;
 }
