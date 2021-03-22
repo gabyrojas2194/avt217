@@ -2,7 +2,7 @@
   background-color: blue;
   width: 25px;
   height: 100px
-  margin: -15px -3.75px;
+  margin: -3.75px;
   float: left;
   opacity: .7;
     border: 3px solid grey
@@ -11,7 +11,7 @@
   background-color: grey;
   width: 25px;
   height: 100px
-  margin: -15px -3.75px;
+  margin: 5px;
   float: left;
   opacity: .7;
     border: 5px solid blue
@@ -20,7 +20,7 @@
   background-color: black;
   width: 25px;
   height: 100px
-  margin: -15px -3.75px;
+  margin: 3px;
   float: left;
   opacity: .7;
     border: 1px solid black
