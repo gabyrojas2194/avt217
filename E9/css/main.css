@@ -1,0 +1,26 @@
+
+
+#p1 .shape1 {
+  background-color: blue;
+  width: 25px;
+  height: 100px
+  margin: -15px -3.75px;
+  float: left;
+  opacity: .7;
+}
+#p1 .shape2 {
+  background-color: grey;
+  width: 25px;
+  height: 100px
+  margin: -15px -3.75px;
+  float: left;
+  opacity: .7;
+}
+#p1 .shape3 {
+  background-color: black;
+  width: 25px;
+  height: 100px
+  margin: -15px -3.75px;
+  float: left;
+  opacity: .7;
+}
