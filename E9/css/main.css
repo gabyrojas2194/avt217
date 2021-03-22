@@ -21,6 +21,7 @@
   margin: -15px -3.75px;
   float: left;
   opacity: .7;
+  transform: rotateX(60);
 }
 div{
   width: 150px;
