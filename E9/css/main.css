@@ -24,11 +24,12 @@
   float: left;
   opacity: .7;
 }
-div{
+shape1{
   width: 150px;
   height: 155px;
   background-color: black;
   float: left;
   margin: -7px;
   opacity: .7;
+  border: 5px solid black
 }
