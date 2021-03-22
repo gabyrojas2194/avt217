@@ -5,6 +5,7 @@
   margin: -15px -3.75px;
   float: left;
   opacity: .7;
+    border: 3px solid grey
 }
 .shape2 {
   background-color: grey;
@@ -13,6 +14,7 @@
   margin: -15px -3.75px;
   float: left;
   opacity: .7;
+    border: 5px solid blue
 }
 .shape3 {
   background-color: black;
@@ -21,6 +23,7 @@
   margin: -15px -3.75px;
   float: left;
   opacity: .7;
+    border: 1px solid black
 }
 .shape2_1{
   width: 50px;
