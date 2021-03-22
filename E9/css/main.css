@@ -84,7 +84,7 @@
   height: 155px;
   background-color: #005598;
   float: right;
-  margin: -13px;
+  margin: 3px;
   opacity: .50;
   border: 5px solid grey
 }
@@ -102,7 +102,7 @@
   height: 200px;
   background-color: #fff5d4;
   float: left;
-  margin: -7px;
+  margin: 7px;
   opacity: .5;
   border: 8px solid grey
 }
@@ -111,7 +111,7 @@
   height: 155px;
   background-color: #152238;
   float: right;
-  margin: -13px;
+  margin: 6px;
   opacity: .50;
   border: 5px solid yellow
 }
