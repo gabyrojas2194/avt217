@@ -13,3 +13,8 @@ body {
   background-color: tomato;
   float: left;
 }
+.board {
+  width: 800px;
+  display: flow-root;
+  margin: 100px auto;
+}
