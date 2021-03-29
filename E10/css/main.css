@@ -59,3 +59,43 @@ background-color: #e8f4f8;
   margin: 10px;
   padding: 10px;
 }
+
+
+header {
+  width: 1000px;
+  height: 150px;
+  margin: auto;
+  background-color: #ade6ad;
+  text-align: center;
+}
+
+main {
+  width: 1000px;
+  margin: 10px auto;
+  display: flow-root;
+}
+
+footer {
+  width: 1000px;
+  margin: 100px auto;
+  display: flow-root;
+  background-color: #ade6ad;
+  text-align: center;
+}
+
+.col {
+  width: 29%;
+  background-color: #ade6e6;
+  float: left;
+  margin: 10px;
+  padding: 10px;
+}
+
+.belowheader {
+  background-color: #e6ade6;
+  text-align: center;
+}
+
+.newheader {
+  margin: 0px 0px 100px 0px;
+}
