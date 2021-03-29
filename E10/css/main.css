@@ -18,3 +18,44 @@ body {
   display: flow-root;
   margin: 100px auto;
 }
+
+body {
+background-color: #e8f4f8;
+}
+.box {
+  background-color: #e6d8ad;
+  width: 1000px;
+  display: flow-root;
+  margin: 0px 0px 100px 0px;
+  float: left;
+}
+
+.mainbox {
+  background-color: #ade6d8;
+  text-align: center;
+  width: 700px;
+  height: 400px;
+  float: left;
+  margin: 10px;
+  padding: 10px;
+}
+
+.rightbox {
+  background-color: #add8e6;
+  text-align: center;
+  width: 200px;
+  height: 250px;
+  float: left;
+  margin: 10px;
+  padding: 10px;
+}
+
+.bottombox {
+  background-color: #adbce6;
+  text-align: center;
+  width: 700px;
+  height: 40px;
+  float: left;
+  margin: 10px;
+  padding: 10px;
+}
