@@ -1,6 +1,7 @@
 body {
-  background-color: #D5F0FE;
+  background: linear-gradient(45deg, #fbd0b6, #f4a9c5, #d5b2d5, #c1bbde, #9dcaee);
 }
+
 .body {
   background: lightpink;
   border-radius: 50%;
