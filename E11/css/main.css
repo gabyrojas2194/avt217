@@ -73,6 +73,7 @@ body {
   background-color: #fff;
   border-radius: 0 0 25% 25%;
   height: 17px;
-  margin: 50px;
+  margin: 0 auto;
+  margin-top: auto;
   width: 35px;
 }
