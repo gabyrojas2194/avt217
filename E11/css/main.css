@@ -57,3 +57,12 @@ body {
   margin-top: -30px;
   width: 30px;
 }
+
+.lip {
+  background: #683726;
+  border: 5px solid #000;
+  border-radius: 0 0 35px 35px;
+  height: 30px;
+  margin: 17px auto;
+  width: 140px;
+}
