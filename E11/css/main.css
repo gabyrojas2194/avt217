@@ -1,3 +1,59 @@
 body {
   background-color: #D5F0FE;
 }
+.body {
+  background: lightpink;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.eyebrow {
+  height: 35px;
+  margin: 0 auto;
+  padding-top: 45px;
+  width: 200px;
+}
+
+.eyebrow-left {
+  background-color: #000;
+  border-radius: 30px 30px 30px 30px;
+  height: 17px;
+  margin-left: 25px;
+  transform: rotate(20deg);
+  width: 60px;
+}
+
+.eyebrow-right {
+  background-color: #000;
+  border-radius: 30px 30px 30px 30px;
+  float: right;
+  height: 10px;
+  margin-right: 43px;
+  transform: rotate(350deg);
+  width: 35px;
+}
+
+.eyes {
+  height: 35px;
+  margin: 0 auto;
+  width: 200px;
+}
+
+.eyes-left {
+  background-color: #000;
+  border-radius: 100%;
+  height: 30px;
+  margin-left: 50px;
+  width: 30px;
+}
+
+.eyes-right {
+  background-color: #000;
+  border-radius: 100%;
+  float: right;
+  height: 30px;
+  margin-right: 45px;
+  margin-top: -30px;
+  width: 30px;
+}
