@@ -61,10 +61,18 @@ body {
 }
 
 .lip {
-  background: #683726;
+  background: #FFE4E1;
   border: 5px solid #000;
   border-radius: 0 0 35px 35px;
   height: 30px;
   margin: 17px auto;
   width: 140px;
+}
+
+.teeth {
+  background-color: #fff;
+  border-radius: 0 0 25% 25%;
+  height: 17px;
+  margin: 0 auto;
+  width: 35px;
 }
