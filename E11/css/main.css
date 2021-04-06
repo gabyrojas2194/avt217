@@ -21,7 +21,7 @@ body {
   background-color: #000;
   border-radius: 30px 30px 30px 30px;
   height: 17px;
-  margin-left: 25px;
+  margin-left: 100px;
   transform: rotate(20deg);
   width: 60px;
 }
@@ -31,7 +31,7 @@ body {
   border-radius: 30px 30px 30px 30px;
   float: right;
   height: 10px;
-  margin-right: 43px;
+  margin-right: 100px;
   transform: rotate(350deg);
   width: 35px;
 }
