@@ -31,6 +31,10 @@ main {
   width: 50%;
   float: left;
 }
+.col2{
+  width: 50%;
+  float: right;
+}
 h1 {
   color: white;
   font-size: 47px;
