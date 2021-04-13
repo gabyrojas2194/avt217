@@ -67,9 +67,9 @@ body {
   height: 30px;
   margin: 17px auto;
   width: 140px;
-  animation: mouth 1s infinite;
+  animation: wink 1s infinite;
 }
-@keyframes mouth {
+@keyframes wink {
   0% {height: 140px;}
   50% {height: 140px;}
   100% {height 0px}
