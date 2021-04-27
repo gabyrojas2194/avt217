@@ -1,0 +1,12 @@
+body {
+  background: linear-gradient(to bottom, #ffcccc 0%, #99ccff 100%);
+
+  margin-top: 300px;
+  margin-bottom: 300px;
+  margin-right: 450px;
+  margin-left: 350px;
+
+  font-family: Aviano Didone, regular;
+  font-weight: 900;
+  font-style: normal;
+}
